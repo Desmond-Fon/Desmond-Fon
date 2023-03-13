@@ -35,7 +35,7 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on frontend-mentor, code wars, code signal and read tech articles.
+- :zap: In my free time, I solve problems on frontend-mentor, code wars, code signal and read tech articles and documentations.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/desmond-fon-88aa88253/)
 
