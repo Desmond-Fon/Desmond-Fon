@@ -33,7 +33,7 @@
   
   - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical Content Writing and Mentorship.
 
 - :zap: In my free time, I solve problems on frontend-mentor, code wars, code signal and read tech articles and documentations.
 
