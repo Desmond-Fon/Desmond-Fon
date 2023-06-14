@@ -66,9 +66,21 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Desmond-Fon&theme=tokyonight)](https://git.io/streak-stats)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Desmond-Fon&hide=contribs,prs&theme=tokyonight&background=000000&show_icons=true)
+<!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Desmond-Fon&hide=contribs,prs&theme=tokyonight&background=000000&show_icons=true) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Desmond-Fon&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<picture >
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Desmond-Fon&show_icons=true&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Desmond-Fon&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Desmond-Fon&show_icons=true&text_color=00fe99" />
+</picture>
 
 
 
