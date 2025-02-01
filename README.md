@@ -69,11 +69,11 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Desmond-Fon&theme=tokyonight)](https://git.io/streak-stats)
-  <div>
+<!--  <div>
     <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=Desmond-Fon&theme=tokyonight" alt="GitHub Streak" style="margin-top: 20px;"/>
     </a>
-  </div>
+  </div> -->
 <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Desmond-Fon&hide=contribs,prs&theme=tokyonight&background=000000&show_icons=true) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Desmond-Fon&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
